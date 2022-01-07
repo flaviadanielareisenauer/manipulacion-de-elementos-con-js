@@ -9,6 +9,7 @@ window.onload = function () {
   }
 
   console.log(body);
+  
   moviesListTitulo.innerHTML = "LISTADO DE PELÍCULAS";
   moviesListTitulo.style.color = "white";
   moviesListTitulo.style.backgroundColor = "teal";

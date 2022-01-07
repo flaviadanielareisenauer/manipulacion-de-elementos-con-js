@@ -3,7 +3,6 @@ window.onload = function () {
   let subtitulo = document.querySelector(".subtitulo");
   let a = document.querySelector("a");
   let parrafos = document.querySelectorAll("p");
-
   let nombre = prompt("Ingrese su nombre");
 
   if (nombre) {
